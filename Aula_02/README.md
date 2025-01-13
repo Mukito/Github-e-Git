@@ -1,7 +1,7 @@
 
 # Introdução ao GitHub e Repositórios Remotos - Aula 02
 
-Bem-vindo à nossa aula sobre GitHub e repositórios remotos! Hoje, vamos explorar como o uso de um repositório remoto, como o GitHub, pode resolver vários desafios que surgem ao trabalhar com um repositório Git local. Veremos como configurar sua conta no GitHub, migrar seu projeto local para lá, e utilizar as principais funcionalidades dessa plataforma.
+Bem-vindo! Vamos explorar como o uso de um repositório remoto, como o GitHub, pode resolver vários desafios que surgem ao trabalhar com um repositório Git local. Veremos como configurar sua conta no GitHub, migrar seu projeto local para lá, e utilizar as principais funcionalidades dessa plataforma.
 
 ## 1. Problemas ao Ter Apenas um Git Local
 
